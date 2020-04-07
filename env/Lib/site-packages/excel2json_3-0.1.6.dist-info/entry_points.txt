@@ -1,0 +1,3 @@
+[console_scripts]
+excel2json-3 = excel2json:cli
+
