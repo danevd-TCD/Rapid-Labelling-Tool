@@ -21,7 +21,7 @@ Also featuring basic support for colourblind users: replaces the default red-gre
 Both a PIP environment ("env" folder) and Anaconda environment ("anaconda_env" folder) are included.
 
 Note: The program only accepts input visual data (images) in .jpg file format. 
-
+I've included some sample image data in "Sample_Images".
 
 Submitted in partial fulfillment as part of BSc degree in Engineering with Management, TCD 2020
 Daniel Danev
