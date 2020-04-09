@@ -1,0 +1,8 @@
+../olefile/__init__.py
+../olefile/__init__.pyc
+../olefile/olefile.py
+../olefile/olefile.pyc
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt

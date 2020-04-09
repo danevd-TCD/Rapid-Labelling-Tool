@@ -1,0 +1,105 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\anaconda3\\pkgs\\olefile-0.46-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/olefile-0.46-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/olefile-0.46-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/olefile-0.46-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/olefile-0.46-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/olefile-0.46-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/olefile/__init__.py",
+    "Lib/site-packages/olefile/olefile.py",
+    ".nonadmin",
+    "Lib/site-packages/olefile/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/olefile/__pycache__/olefile.cpython-37.pyc"
+  ],
+  "fn": "olefile-0.46-py_0.tar.bz2",
+  "license": "BSD 2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\USER\\anaconda3\\pkgs\\olefile-0.46-py_0",
+    "type": 1
+  },
+  "md5": "8a6d3394763144710916ecf556c6287d",
+  "name": "olefile",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\USER\\anaconda3\\pkgs\\olefile-0.46-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/olefile-0.46-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "c302966652892ce14812368e12ced035bc764c7be72438c9a97529101b9c035f",
+        "sha256_in_prefix": "c302966652892ce14812368e12ced035bc764c7be72438c9a97529101b9c035f",
+        "size_in_bytes": 11271
+      },
+      {
+        "_path": "site-packages/olefile-0.46-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "af9795f3018cfa75311649b424f5201c5b295825bf753de162cf78e499312472",
+        "sha256_in_prefix": "af9795f3018cfa75311649b424f5201c5b295825bf753de162cf78e499312472",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "site-packages/olefile-0.46-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/olefile-0.46-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "74b92dc7dbe647550985b7894e270013c62c9f42f07c57d022bea2044b126958",
+        "sha256_in_prefix": "74b92dc7dbe647550985b7894e270013c62c9f42f07c57d022bea2044b126958",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "site-packages/olefile-0.46-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "bad496e3f9cfa7eaf2b510fb56f312fbc812a7d05498a6110cd7757b1f50da4b",
+        "sha256_in_prefix": "bad496e3f9cfa7eaf2b510fb56f312fbc812a7d05498a6110cd7757b1f50da4b",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/olefile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5e81aec95ac09c993ad53fcfd93b3a6f67f1d1ff0bfee49214cabcfe51f0c17a",
+        "sha256_in_prefix": "5e81aec95ac09c993ad53fcfd93b3a6f67f1d1ff0bfee49214cabcfe51f0c17a",
+        "size_in_bytes": 995
+      },
+      {
+        "_path": "site-packages/olefile/olefile.py",
+        "path_type": "hardlink",
+        "sha256": "e8e1a9ee52dca783b7e8e6fff9d344e18926fafefd4ce48e41f03b2d4725c47e",
+        "sha256_in_prefix": "e8e1a9ee52dca783b7e8e6fff9d344e18926fafefd4ce48e41f03b2d4725c47e",
+        "size_in_bytes": 105311
+      },
+      {
+        "_path": "Lib/site-packages/olefile/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/olefile/__pycache__/olefile.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7cb6f67a87d0fe48f5b2f3c45a61dd71bad7ff9e60bb6d45143432bc7704aa07",
+  "size": 31322,
+  "subdir": "noarch",
+  "timestamp": 1536607229619,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/olefile-0.46-py_0.tar.bz2",
+  "version": "0.46"
+}

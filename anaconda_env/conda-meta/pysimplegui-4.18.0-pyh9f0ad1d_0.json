@@ -1,0 +1,105 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\anaconda3\\pkgs\\pysimplegui-4.18.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/PySimpleGUI-4.18.0.dist-info/INSTALLER",
+    "Lib/site-packages/PySimpleGUI-4.18.0.dist-info/METADATA",
+    "Lib/site-packages/PySimpleGUI-4.18.0.dist-info/RECORD",
+    "Lib/site-packages/PySimpleGUI-4.18.0.dist-info/WHEEL",
+    "Lib/site-packages/PySimpleGUI-4.18.0.dist-info/top_level.txt",
+    "Lib/site-packages/PySimpleGUI/PySimpleGUI.py",
+    "Lib/site-packages/PySimpleGUI/__init__.py",
+    ".nonadmin",
+    "Lib/site-packages/PySimpleGUI/__pycache__/PySimpleGUI.cpython-37.pyc",
+    "Lib/site-packages/PySimpleGUI/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "pysimplegui-4.18.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "LGPL-3.0",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\Users\\USER\\anaconda3\\pkgs\\pysimplegui-4.18.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "4a7780813a0d9fc01a3fb2b0a1fc81c8",
+  "name": "pysimplegui",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\USER\\anaconda3\\pkgs\\pysimplegui-4.18.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/PySimpleGUI-4.18.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.18.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7b1a553cd6ddde2a1784e05b661694dd79761170f56a531dc0f659491ee224b5",
+        "sha256_in_prefix": "7b1a553cd6ddde2a1784e05b661694dd79761170f56a531dc0f659491ee224b5",
+        "size_in_bytes": 1258
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.18.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4d3bb0d4b8b24ad24e04605bbd7b13b3967ff4fb0921854f61f9bfbfa7b79bc7",
+        "sha256_in_prefix": "4d3bb0d4b8b24ad24e04605bbd7b13b3967ff4fb0921854f61f9bfbfa7b79bc7",
+        "size_in_bytes": 685
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.18.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8389ccb3b77e5e5f7ec42f57a2f52bb031c65edf854f4135ed8aa8f760c47ef6",
+        "sha256_in_prefix": "8389ccb3b77e5e5f7ec42f57a2f52bb031c65edf854f4135ed8aa8f760c47ef6",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/PySimpleGUI-4.18.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f6c2c721b048005753d67d36aef52fac6840b262009137d31be818e6c9386e97",
+        "sha256_in_prefix": "f6c2c721b048005753d67d36aef52fac6840b262009137d31be818e6c9386e97",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/PySimpleGUI/PySimpleGUI.py",
+        "path_type": "hardlink",
+        "sha256": "6160f8c29122701d71efa4b927833f352b6971e6d50ef1113e5adf8d64148777",
+        "sha256_in_prefix": "6160f8c29122701d71efa4b927833f352b6971e6d50ef1113e5adf8d64148777",
+        "size_in_bytes": 815534
+      },
+      {
+        "_path": "site-packages/PySimpleGUI/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8ed4d92278193650c5c50cc54859d850933570e708d7dd8bdc3a726cb369fb6c",
+        "sha256_in_prefix": "8ed4d92278193650c5c50cc54859d850933570e708d7dd8bdc3a726cb369fb6c",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "Lib/site-packages/PySimpleGUI/__pycache__/PySimpleGUI.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/PySimpleGUI/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pysimplegui",
+  "sha256": "95035e067e7f4f766f7bfd50d4d417d7367d85860d205ebe1a7916155e08e0dd",
+  "size": 122009,
+  "subdir": "noarch",
+  "timestamp": 1585432426494,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pysimplegui-4.18.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "4.18.0"
+}

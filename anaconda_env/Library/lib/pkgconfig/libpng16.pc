@@ -1,0 +1,12 @@
+prefix=D:/bld/libpng_1584621706596/_h_env/Library
+exec_prefix=D:/bld/libpng_1584621706596/_h_env/Library
+libdir=D:/bld/libpng_1584621706596/_h_env/Library/lib
+includedir=D:/bld/libpng_1584621706596/_h_env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}

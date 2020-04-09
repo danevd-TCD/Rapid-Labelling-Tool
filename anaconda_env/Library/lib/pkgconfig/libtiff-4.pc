@@ -1,0 +1,11 @@
+prefix=D:/bld/libtiff_1584687528997/_h_env/Library
+exec_prefix=D:/bld/libtiff_1584687528997/_h_env/Library
+libdir=D:/bld/libtiff_1584687528997/_h_env/Library/lib
+includedir=D:/bld/libtiff_1584687528997/_h_env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.1.0
+Libs: -LD:/bld/libtiff_1584687528997/_h_env/Library/lib -ltiff
+Libs.private: 
+Cflags: -ID:/bld/libtiff_1584687528997/_h_env/Library/include
