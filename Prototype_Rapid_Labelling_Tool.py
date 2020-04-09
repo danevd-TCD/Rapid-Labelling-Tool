@@ -219,7 +219,7 @@ while True:
                                     row_count = img_count + 2
 
                                     pathInput = (valsInt['FolderLoc'])
-                                    makeDirLoc = pathInput +'/temp' #keep an eye on this: will it work in other OS due to backslash/forwardslash disparities?
+                                    makeDirLoc = os.path.normpath(pathInput +'/temp') #keep an eye on this: will it work in other OS due to backslash/forwardslash disparities?
                                     pathSnip = len(makeDirLoc) #a variable used later, to strip folder location from filename
 
                                     #this logic loop checks to see if a /temp folder already exists at target destination
@@ -515,7 +515,7 @@ while True:
                             img_count = 0
                             
                             pathInput = (DrawLocVals['FolderLoc'])
-                            makeDirLoc = pathInput +'/temp' #keep an eye on this: will it work in other OS due to backslash/forwardslash disparities?
+                            makeDirLoc = os.path.normpath(pathInput +'/temp') #keep an eye on this: will it work in other OS due to backslash/forwardslash disparities?
                             pathSnip = len(makeDirLoc) #a variable used later, to strip folder location from filename
                             
                             #this logic loop checks to see if a /temp folder already exists at target destination
