@@ -1,0 +1,1 @@
+These images are the author's own personal work. Feel free to use them to explore the functionality of the tool. These images serve to demonstrate the ability of the prototype to dynamically resize images based on their longest size, while preserving aspect ration
