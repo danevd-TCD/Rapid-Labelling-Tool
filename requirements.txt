@@ -9,7 +9,7 @@ kiwisolver==1.1.0
 matplotlib==3.2.0
 numpy==1.18.2
 openpyxl==3.0.3
-Pillow==7.0.0
+Pillow==9.3.0
 pip==19.2.3
 pyparsing==2.4.6
 PySimpleGUI==4.15.2
